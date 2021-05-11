@@ -22,7 +22,7 @@
 
 ## 💻 Projeto
 
-Este é um dos módulos do Gostack, que tem como objetivo passar conhecimentos sobre NodeJs onde cria uma api de cadastros de projetos.
+Este é um dos módulos do Gostack, que tem como objetivo passar conhecimentos sobre ReactJs onde utilizamos a api criada no modulo de node nivel 01 para criar e listar os projetos.
 
 
 ## 📝 Licença
